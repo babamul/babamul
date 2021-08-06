@@ -1,0 +1,4 @@
+deepdiff>=5.0
+gsutil>=4.60
+pytest>=6.1.2
+questionary>=1.8.1

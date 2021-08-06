@@ -1,0 +1,6 @@
+fire>=0.4.0
+myst-parser
+pre-commit
+pyyaml>=5.3.1
+sphinx
+sphinx_material
