@@ -10,4 +10,5 @@ local hardware accelerated inferencing (edgeML).
    :maxdepth: 2
 
    intro
+   developer
    license
