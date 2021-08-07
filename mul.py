@@ -109,7 +109,7 @@ class Babamul:
             sys.exit(1)
 
     @staticmethod
-    def doc(self):
+    def doc():
         """Build docs"""
 
         # build sphinx docs

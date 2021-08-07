@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Babamul broker"
+project = "Babamul"
 copyright = "2021, The babamul collaboration"
 author = "The babamul collaboration"
 
@@ -43,7 +43,20 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "material"
+html_theme = "sphinx_material"
+
+html_theme_options = {
+    'base_url': 'http://docs.babamul.dev',
+    'repo_url': 'https://github.com/babamul/babamul',
+    'repo_name': 'Babamul LSST broker',
+    # 'google_analytics_account': 'UA-XXXXX',
+    # 'html_minify': True,
+    # 'css_minify': True,
+    'nav_title': 'Babamul',
+    'logo_icon': '&#xe430',
+    'globaltoc_depth': 2,
+}
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
