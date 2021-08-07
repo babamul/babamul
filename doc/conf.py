@@ -48,7 +48,7 @@ html_theme = "sphinx_material"
 html_theme_options = {
     'base_url': 'http://docs.babamul.dev',
     'repo_url': 'https://github.com/babamul/babamul',
-    'repo_name': 'Babamul LSST broker',
+    'repo_name': 'Babamul',
     # 'google_analytics_account': 'UA-XXXXX',
     # 'html_minify': True,
     # 'css_minify': True,
