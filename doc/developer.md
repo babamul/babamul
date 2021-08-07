@@ -59,7 +59,7 @@ To incorporate changes recommended by the reviewers, commit edits to your branch
 resulting in conflicts with your feature branch. Please merge the upstream/master branch into your branch:
 
     ```shell script
-    git merge rewrite-contributor-guide upstream/main
+    git merge rewrite-contributor-guide upstream/master
     ```
 Developers may merge `master` into their branch as many times as they want/need to.
 
