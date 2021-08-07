@@ -52,7 +52,7 @@ html_theme_options = {
     # 'google_analytics_account': 'UA-XXXXX',
     # 'html_minify': True,
     # 'css_minify': True,
-    'nav_title': 'Babamul',
+    'nav_title': 'babamul',
     'logo_icon': '&#xe430',
     'globaltoc_depth': 2,
 }
